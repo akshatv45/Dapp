@@ -1,0 +1,14 @@
+{
+  "name": "FirstContract",
+  "version": "0.0.1",
+  "description": "Testing Yarn",
+  "main": "index.js",
+  "author": "Akshat",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+  	"dev": "lite-server"
+  }
+}
